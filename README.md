@@ -16,7 +16,7 @@
     </ul>
 
  <h2>Data Analysis and Visualizations</h2>
- p>Various analyses and visualizations were conducted during the project. Below are the key plots and their descriptions:</p>
+ <p>Various analyses and visualizations were conducted during the project. Below are the key plots and their descriptions:</p>
     <ol>
         <li><strong>Boxplot:</strong> Distribution of Total Dues, Monthly Dues, and Months in Union.</li>
      
