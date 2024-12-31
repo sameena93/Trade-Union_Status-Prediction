@@ -23,18 +23,23 @@
 ![queryscreenshot](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Boxplot%20of%20totaldues%2Cmonthlydues.png)
      
         <li><strong>Correlation Matrix:</strong> Heatmap showing correlations among key variables.</li>
+        
 ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Correlation%20matrix%20heatmap.png)
 
         <li><strong>Marital Status Distribution:</strong> Visualization of marital status categories.</li>
+        
 ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Marital%20status%20distributiondistri.png)
 
         <li><strong>Scatter Plot:</strong> Relationship between Months in Union and Total Dues.</li>
+        
 ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/scatter%20plot%20of%20monthly%20dues%20vs%20total%20dues%20in%20union.png)
 
         <li><strong>Scree Plot:</strong> Explained variance for feature selection.</li>
+        
 ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Scree%20plot.png)
 
         <li><strong>USA Citizen vs. Gender:</strong> Distribution of citizenship status by gender.</li>
+        
 ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/uscetizen%20with%20gender.png)
 
         <li><strong>Violin Plot:</strong> Total Dues vs. Payment Method.</li>
