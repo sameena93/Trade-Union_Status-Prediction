@@ -54,7 +54,7 @@ Several machine learning models were implemented to predict the "LeftUnion" stat
 - Support Vector Machine (SVM)
 
 The **accuracy comparison** of these models was visualized and included in the project.
-
+![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Accuracy%20comparison%20of%20models.png)
 ---
 
 ## Repository Content
@@ -64,16 +64,3 @@ The **accuracy comparison** of these models was visualized and included in the p
 - **images/**: Stores PNG files of all the plots listed above.
 - **README.md**: Project documentation.
 
----
-
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Ensure all dependencies listed in `requirements.txt` are installed.
-3. Run the scripts in the `code/` directory to reproduce results or customize the analysis.
-
----
-
-## Contact
-
-If you have any questions or suggestions, feel free to reach out via the repository's issue tracker.
