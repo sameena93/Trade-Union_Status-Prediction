@@ -19,7 +19,7 @@
  p>Various analyses and visualizations were conducted during the project. Below are the key plots and their descriptions:</p>
     <ol>
         <li><strong>Boxplot:</strong> Distribution of Total Dues, Monthly Dues, and Months in Union.</li>
-     ![]()
+     ![](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Boxplot%20of%20totaldues%2Cmonthlydues.png)
         <li><strong>Correlation Matrix:</strong> Heatmap showing correlations among key variables.</li>
         <li><strong>Marital Status Distribution:</strong> Visualization of marital status categories.</li>
         <li><strong>Scatter Plot:</strong> Relationship between Months in Union and Total Dues.</li>
