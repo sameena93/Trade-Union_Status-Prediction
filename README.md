@@ -6,3 +6,11 @@
 
 <p>By building a predictive model, the project aims to understand factors influencing union membership and provide valuable insights into trends and behaviors related to union affiliation among data scientists.</p>
 
+---
+
+<h2>Project Description</h2>
+ <p>By building a predictive model, this project aims to:</p>
+    <ul>
+        <li>Understand factors influencing union membership.</li>
+        <li>Provide insights into trends and behaviors related to union affiliation among data scientists.</li>
+    </ul>
