@@ -22,7 +22,8 @@
      
 ![queryscreenshot](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Boxplot%20of%20totaldues%2Cmonthlydues.png)
      
-        <li><strong>Correlation Matrix:</strong> Heatmap showing correlations among key variables.</li>       
+        <li><strong>Correlation Matrix:</strong> Heatmap showing correlations among key variables.</li>    
+        
 ![queryscreenshot](https://github.com/sameena93/Trade-Union_Status-Prediction/blob/main/static/Correlation%20matrix%20heatmap.png)
 
         <li><strong>Marital Status Distribution:</strong> Visualization of marital status categories.</li>
